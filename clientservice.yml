@@ -1,0 +1,3 @@
+service:
+  message: Hello! I am from default profile for clientservice.
+  profile: Default
